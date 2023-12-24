@@ -4,6 +4,7 @@ rencana konten luxky
  * ES6
  * framework javascript 
    ^vue
+   ^react
 -struktur data dasar
 -php framework
  ^laravel
