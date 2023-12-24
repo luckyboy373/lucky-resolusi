@@ -3,6 +3,10 @@ rencana konten luxky
 -javascript 
  * ES6
  * framework javascript 
+   ^vue
+-struktur data dasar
 -php framework
+ ^laravel
 -interview
 -vlogs
+-python
