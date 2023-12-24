@@ -1,6 +1,8 @@
 rencana konten luxky
 
 -javascript 
+ * ES6
+ * framework javascript 
 -php framework
 -interview
 -vlogs
